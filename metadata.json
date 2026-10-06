@@ -1,0 +1,6 @@
+{
+  "name": "SafeCheck AI",
+  "description": "Check before you trust. A simple AI-powered scam message checker to evaluate suspicious messages, SMS, emails, and job offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
